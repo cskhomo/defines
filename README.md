@@ -1,4 +1,4 @@
-# Programming Jargon Dictionary App for PC
+# "Programming Jargon" Dictionary App for PC
 
 <div align="center">
 
@@ -20,7 +20,7 @@ New developers often struggle with programming terminology. This app serves as a
 ## Planning
 
 
-### <div align="center"> What We Aims to Achieve </div>
+### <div align="center"> What We Aim to Achieve </div>
 
 
 Many beginners feel lost when they hear words like "polymorphism," "concetenation" or "algorithms." 😬
