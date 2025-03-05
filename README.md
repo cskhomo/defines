@@ -17,7 +17,7 @@ In collabaration with [Harmony Madisha](https://github.com/HarmonyWM) | [Sierra 
 
 New developers often struggle with programming terminology. This app serves as a beginner-friendly tool, offering clear and concise definitions of programming terms, making it easier for beginners to understand and technical jargon.
 
-## Planning
+## Project Vision
 
 
 ### <div align="center"> What We Aims to Achieve </div>
