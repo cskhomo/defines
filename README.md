@@ -15,16 +15,9 @@ In collabaration with [Harmony Madisha](https://github.com/HarmonyWM) | [Sierra 
 
 ## Summary
 
-New developers often struggle with programming terminology. This app serves as a beginner-friendly tool, offering clear and concise definitions of programming terms, making it easier for beginners to understand technical jargon.
+New developers often struggle with programming terminology, feeling lost when they encounter words like "polymorphism" or "concatenation" 
 
-## Project Vision
+Defines offers a simple, beginner-friendly solution by providing clear and concise definitions of these terms. It serves as an easy-to-use lookup tool, helping beginners quickly understand technical jargon. Accessible anywhere, even offline, ensuring that learners can get the help they need, anytime, without getting stuck.
 
+## Analysis
 
-### <div align="center"> What We Aim to Achieve </div>
-
-
-Many beginners feel lost when they hear words like "polymorphism," "concetenation" or "algorithms." 😬
-
-We aim to create a simple solution: a lookup tool that helps them understand these terms, accessible anywhere, including offline.
-
-The app maintains a local dictionary of common programming terms. If a user searches for a term that isn’t available, the app will fetch it from an online dictionary, and then store it locally for future use.
