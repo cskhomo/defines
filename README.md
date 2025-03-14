@@ -13,9 +13,9 @@ In collaboration with [Harmony Madisha](https://github.com/HarmonyWM) | [Sierra 
 - [Analysis](#analysis)
 	- [Data Storage](#data-storage)
 	- [Online Definitions](#online-definitions)
-	- [User-Interface](#user---interface)
+	- [User-Interface](#user-interface)
 
-## <div align="center">Summary
+## Summary
 
 New developers often struggle with programming terminology, feeling lost when they encounter words like "polymorphism" or "concatenation" 
 
