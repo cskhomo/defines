@@ -1,4 +1,4 @@
-# Lite Reference of Tech Terms
+# Technical Terms' Vocabulary for Desktop
 
 <div align="center">
 
