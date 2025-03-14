@@ -1,4 +1,4 @@
-# Dictionary for Developers: Lite Reference of Tech Terms
+# Lite Reference of Tech Terms
 
 <div align="center">
 
@@ -10,7 +10,10 @@ In collaboration with [Harmony Madisha](https://github.com/HarmonyWM) | [Sierra 
 ## Table of Contents
 
 - [Summary](#summary)
-- [Analysis](#Analysis)
+- [Analysis](#analysis)
+	- [Data Storage](#data-storage)
+	- [Online Definitions](#online-definitions)
+	- [User-Interface](#user---interface)
 
 ## <div align="center">Summary
 
