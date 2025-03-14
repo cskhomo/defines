@@ -1,4 +1,4 @@
-# Technical Terms' Vocabulary for Desktop
+# Technical Terms Vocabulary for Desktop
 
 <div align="center">
 
