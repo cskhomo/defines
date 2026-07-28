@@ -11,8 +11,10 @@ string parse(char** argv){
     return lower(join(words, " "));
 }
 
-void print(const string& text){
-  cout << text << endl;
+void print(Definition definition){
+    cout << "term: " << definition.term << endl;
+    cout << "meaning: " << definition.meaning << endl;
+    cout << "example: " << definition.example << endl;
 }
 
 vector<string> extract(vector<string> args){
